@@ -1,5 +1,4 @@
 # xero-php-oauth2-custom-connections-starter
-
 This is a starter app with the code to perform OAuth 2.0 authentication flow for the `client_credentials` grant.
 
 Custom Connections are a Xero [premium option](https://developer.xero.com/documentation/oauth2/custom-connections) for building M2M integrations to a single Xero Organisation.
