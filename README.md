@@ -16,7 +16,7 @@ To obtain your API keys, follow these steps and create a Xero app
 
 ## Getting Started
 To run locally, you'll need a local web server with PHP support.  
-* Have Docker installed
+* Have Docker Compose installed - https://docs.docker.com/compose/install/
 * Update your .env with your app's credentials
 
 ```bash
