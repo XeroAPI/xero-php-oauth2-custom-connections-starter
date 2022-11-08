@@ -3,7 +3,7 @@
     "description": "Xero Starter OAuth 2.0 app for PHP",
     "type": "project",
     "require": {
-      "xeroapi/xero-php-oauth2": "2.7.0",
+      "xeroapi/xero-php-oauth2": "2.17.0",
       "monolog/monolog": "1.0",
       "vlucas/phpdotenv": "5.3.0"
     },

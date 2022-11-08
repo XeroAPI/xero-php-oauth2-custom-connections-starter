@@ -12,7 +12,8 @@
     'clientSecret'            => $_ENV['CLIENT_SECRET'],
     'urlAuthorize'            => 'https://login.xero.com/identity/connect/authorize',
     'urlAccessToken'          => 'https://identity.xero.com/connect/token',
-    'urlResourceOwnerDetails' => 'https://identity.xero.com/resources'
+    'urlResourceOwnerDetails' => 'https://identity.xero.com/resources',
+    'scope'                   => ['marketplace.billing']
   ]);
 
   // This returns the authorizeUrl with necessary parameters applied (e.g. state).
